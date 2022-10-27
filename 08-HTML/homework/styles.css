@@ -1,5 +1,5 @@
 h1 
-{   color:darkblue; }
+{   color: rgba(99, 12, 12, 0.808); }
 img 
 {   width: 400px;   }
 #thirdDiv 
@@ -11,3 +11,15 @@ img
 #spanId 
 {   font-size: 18px; 
     margin: 50px; }
+    body {
+        background-image: linear-gradient(45deg, rgb(31, 11, 100), rgb(17, 139, 133));
+    }
+    a {background-color: black;}
+    div {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .divClass {
+        margin-left: 500px;
+        margin-right: 500px;
+    }
